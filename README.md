@@ -2,6 +2,8 @@
 
 ### Challenge [link](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv)
 
+### Solution [deployment](https://64c7027674848a50cb03a6ca--profound-beignet-78fc0d.netlify.app)
+
 A sign up form made with HTML , CSS and Javascript
 
 * responsive for mobile and desktop screens
