@@ -11,5 +11,5 @@ A sign up form made with HTML , CSS and Javascript
 * checks for a valid email format before submitting
 * error message if email is not valid format
 * pop up success message ,with the email address displayed in the success message
- font from  google fonts
+* font from  google fonts
 
